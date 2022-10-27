@@ -31,8 +31,8 @@ function App() {
         height: "100vh"
     }}>
       <Card className="position-absolute top-50 start-50 translate-middle text-center" 
-        style={{ 
-          width: "50vw",
+        style={{
+          width: "75vw",
           height: "auto"
         }}>
         <Card.Body>
